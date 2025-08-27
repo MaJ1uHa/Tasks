@@ -22,6 +22,9 @@
 
 # Скриншоты
 <p align="center">
-  <img src="screenshots/first_Task.png" width="30%" />
-  <img src="screenshots/filling_Tasks.png" width="30%" />
+  <img src="screenshots/first_Task.png" width="18%" />
+  <img src="screenshots/filling_Tasks.png" width="18%" />
+  <img src="screenshots/inside_Task.png" width="18%" />
+  <img src="screenshots/update_Task.png" width="18%" />
+  <img src="screenshots/delete_Task.png" width="18%" />
 </p>
